@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.tarmak(etroi)</string>
+	<key>CFBundleName</key>
+	<string>Tarmak 1</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_Tarmak 1</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.tarmak(etroi).tarmak1</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Tarmak 2</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.tarmak(etroi).tarmak2</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-SG</string>
+	</dict>
+	<key>KLInfo_Tarmak 3</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.tarmak(etroi).tarmak3</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-SG</string>
+	</dict>
+	<key>KLInfo_Tarmak 4</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.tarmak(etroi).tarmak4</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-SG</string>
+	</dict>
+</dict>
+</plist>
