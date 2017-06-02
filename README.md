@@ -20,7 +20,7 @@ cd ~ && git clone --depth 1 https://github.com/sblaurock/tarmak-layouts.git && c
 ```
 
 ## Manual Install
-Simply unpack the relevant *.tar.gz* file and copy the bundle to */Volumes/Keyboard Layouts/*.
+Simply unpack the relevant *.tar.gz* file and copy the bundle to */Library/Keyboard Layouts/*.
 
 ## Note
 Colemak calls for remapping the caps lock key to backspace, however neither the Tarmak layouts in this repository nor the integrated OS X Colemak layout provide this functionality. You can look to [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to allow for this if desired.
