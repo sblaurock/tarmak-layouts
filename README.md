@@ -23,7 +23,7 @@ cd ~ && git clone --depth 1 https://github.com/sblaurock/tarmak-layouts.git && c
 Simply unpack the relevant *.tar.gz* file and copy the bundle to */Volumes/Keyboard Layouts/*.
 
 ## Note
-Colemak calls for remapping the caps lock key to backspace, however neither the Tarmak layouts in this repository nor the integrated OS X Colemak layout provide this functionality. You can look to [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to allow for this if desired.
+Colemak calls for remapping the caps lock key to backspace, however neither the Tarmak layouts in this repository nor the integrated OS X Colemak layout provide this functionality. You can look at [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) to allow for this if desired.
 
 ## Thanks
 The original layout files were built by [ghaz](http://forum.colemak.com/profile.php?id=2210) with support from the fantastic community on the [Colemak forums](http://forum.colemak.com/). I've adapted his original layout files to support the newer *ETROI* variant (out of personal necessity) and combined layouts from each variant into individual bundles. A warm "thank you" to all those who contributed before me to made this possible.
